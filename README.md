@@ -15,7 +15,15 @@ Model type: Diffusion-based text-to-video generation model
 Language(s): English
 License: CC-BY-NC-ND
 
-OUTPUT VIDEO >>
+OUTPUT VIDEOs >>
 
-https://github.com/CreativeAnkush/TEXT-TO-VID-MODEL-PYTHON/assets/92021625/282bdf30-c9fc-4aeb-8f21-1e686f069486
+https://github.com/CreativeAnkush/TEXT-TO-VID-MODEL-PYTHON/assets/92021625/f35416cb-ca88-4837-ad9e-6707ab7843c7
+
+
+
+https://github.com/CreativeAnkush/TEXT-TO-VID-MODEL-PYTHON/assets/92021625/dcf451d1-6edf-4e35-a2bc-59a695de4808
+
+
+
+https://github.com/CreativeAnkush/TEXT-TO-VID-MODEL-PYTHON/assets/92021625/4f8e4aa9-2523-44e7-b2a1-90c90951f949
 
