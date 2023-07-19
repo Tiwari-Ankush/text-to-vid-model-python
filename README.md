@@ -1,6 +1,8 @@
 # TEXT-TO-VID-MODEL-PYTHON
 MODEL= "damo-vilab/text-to-video-ms-1.7b"
 
+DETAILED OVERVIEW >> "
+
 DESCRIPTION OF MODEL >> 
 LINK TO MODEL- "https://huggingface.co/damo-vilab/text-to-video-ms-1.7b#model-details"
 
@@ -14,5 +16,6 @@ Language(s): English
 License: CC-BY-NC-ND
 
 OUTPUT VIDEO >>
-https://github.com/CreativeAnkush/TEXT-TO-VID-MODEL-PYTHON/assets/92021625/a1f78d33-fffc-40cf-b93f-7276bbaaf769
+
+https://github.com/CreativeAnkush/TEXT-TO-VID-MODEL-PYTHON/assets/92021625/282bdf30-c9fc-4aeb-8f21-1e686f069486
 
