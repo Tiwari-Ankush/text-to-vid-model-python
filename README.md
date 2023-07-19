@@ -1,7 +1,7 @@
 # TEXT-TO-VID-MODEL-PYTHON
 MODEL= "damo-vilab/text-to-video-ms-1.7b"
 
-DETAILED OVERVIEW >> "
+DETAILED OVERVIEW >> "https://github.com/CreativeAnkush/TEXT-TO-VID-MODEL-PYTHON/blob/main/Text_Vid.ipynb"
 
 DESCRIPTION OF MODEL >> 
 LINK TO MODEL- "https://huggingface.co/damo-vilab/text-to-video-ms-1.7b#model-details"
